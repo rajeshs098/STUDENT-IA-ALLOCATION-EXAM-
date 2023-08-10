@@ -40,14 +40,14 @@ To run this project locally, you'll need:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/student-ia-allocation.git
+   git clone https://github.com/isa/student-ia-allocation.git
    ```
 
 2. Configure your web server to serve the project from the cloned directory.
 
-3. Import the provided MySQL database dump (`isa.sql`) into your MySQL server:
+3. Import the provided MySQL database dump (`database_dump.sql`) into your MySQL server:
    ```bash
-   mysql -u your-username -p your-database-name < database_dump.sql
+   mysql -u isa -p isa < database_dump.sql
    ```
 
 ## Usage
