@@ -47,7 +47,7 @@ To run this project locally, you'll need:
 
 3. Import the provided MySQL database dump (`database_dump.sql`) into your MySQL server:
    ```bash
-   mysql -u isa -p isa < database_dump.sql
+  
    ```
 
 ## Usage
